@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=gpyflakes
+IAge=3
+Name=GPyflakes
+Description=Pyflakes integration for Gedit
+Authors=Luke Benstead
+Copyright=Copyright © 2011 Luke Benstead
+Website=http://www.kazade.co.uk
+Version=3.0.0

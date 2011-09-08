@@ -1,0 +1,5 @@
+
+1. Don't try to run on non-Python files (in fact, hide the pane on non-Python files)
+2. Show markers in the source view
+3. Run on newline or something (more frequent than save)
+4. Run on load
